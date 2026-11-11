@@ -1,0 +1,12 @@
+{
+  "name": "Flowlane — Kanban Project Management",
+  "short_name": "Flowlane",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F5F6FA",
+  "theme_color": "#6C5CE7",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
